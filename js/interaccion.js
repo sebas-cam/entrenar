@@ -16,6 +16,10 @@ $(function(){
             })
     });
 
+    $("h1").each(function(data){
+        console.log(data);
+    })
+
 
 
 
